@@ -1,0 +1,19 @@
+{
+  "name": "mechanism/user",
+  "description": "111",
+  "type": "l",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Mechanism\\User\\": "src/siam"
+    }
+  },
+  "authors": [
+    {
+      "name": "leisen",
+      "email": "leisentop@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
